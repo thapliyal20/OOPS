@@ -1,0 +1,20 @@
+				Lab 4. Abstract classes , Polymorphism
+4.1:
+Class Mobile_phones
+  {
+messages
+	}
+class message{
+     multimedia message;
+     voice message;
+     text message;
+     audio message;
+     video message;
+	}
+
+message overloading{
+     message{
+          sender;
+          receiver;
+	}      
+	}

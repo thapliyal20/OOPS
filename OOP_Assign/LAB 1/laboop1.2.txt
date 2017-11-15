@@ -1,0 +1,2 @@
+1.2 Yes, we agree that discrete mathematics is a class because it contains properties
+like graph theory.

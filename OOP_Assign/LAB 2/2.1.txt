@@ -1,0 +1,23 @@
+					Lab 2. Writing down class structure
+2.1:
+-> University
+        Attributes:
+            Course name
+            Course code
+            Professor
+        
+       Behavior:
+           Work stations
+           Seminar halls
+           Lecturer rooms
+
+->DBMS:
+       Attributes:
+           OLAP
+           ORDBMS
+           Course code
+
+      Behavior:
+          Mid exams
+          Tests
+          Final exam

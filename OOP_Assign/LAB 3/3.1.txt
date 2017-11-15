@@ -1,0 +1,12 @@
+					Lab 3. Class Relationship
+3.1:
+Classes:-
+   Customers, Products, Orders
+
+Relationship:
+    Customer ->     Association with Registration
+    Products   ->    Generalization with Western and Indian garments
+    Orders     ->     Agregation with multiple orders, credit card and net banking
+    
+
+    

@@ -1,0 +1,9 @@
+Class : Courses,DiscreteMathematics,Database&InformationSystems,IslamicHistory,Location.
+
+Objects:professor,lecture halls, workshops, seminar rooms, students
+
+Properties:Graph Theory,ORDBMS , OLAP and Distributed systems....
+
+Fields:experience and qualification.
+
+Functions:prerequisite, mid level tests and end semester tests,grade

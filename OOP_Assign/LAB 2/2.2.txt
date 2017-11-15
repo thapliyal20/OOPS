@@ -1,0 +1,23 @@
+2.2:
+    class dates(){
+	date= new date()
+	new date() = type;
+	date_format = type;
+	{
+	prompt"Enter a specific date";
+	accept date();        
+	}
+
+date_format = American 
+	{
+	display mm + "/" + dd + "/" + yyyy;
+	}
+	 
+date_format = British
+	{
+	display dd + "/" + mm + "/" + yyyy;
+	}
+date_format = Japanese
+	{
+	display dd + "." + mm + "." + yyyy;
+	}

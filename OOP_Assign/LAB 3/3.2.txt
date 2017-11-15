@@ -1,0 +1,17 @@
+3.2:
+Classes:-
+Deck of cards->
+     Red:
+          function Red{
+	Diamond;
+	Hearts;
+	}
+
+     Black:
+         function black{
+	Spade; 
+	Clover; 
+	}
+
+
+	   
